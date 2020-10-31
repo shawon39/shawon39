@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 <br />
 
+[twitter]: https://twitter.com/shshawon39
+[linkedin]: https://linkedin.com/in/shawon39
+[instagram]: https://instagram.com/shaw0n39
+[facebook]: https://youtube.com/sh.shawon1
