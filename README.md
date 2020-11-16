@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Shawon
 
 - 🔭 I’m currently working on Salesforce
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Firebase
 - 💬 Ask me about Tech related questions
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
