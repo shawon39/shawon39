@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Firebase
 - 💬 Ask me about Tech related questions
 - 📫 How to reach me: Email
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Explore something new
 
 ### Connect with me:
