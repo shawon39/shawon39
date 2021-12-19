@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Shawon
 
 - 🔭 I’m currently working on Salesforce
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning Node
 - 💬 Ask me about Tech related questions
 - 📫 How to reach me: Email
 - ⚡ Fun fact: Explore something new
