@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Shawon
 
-- 🔭 I’m currently working on Salesforce
-- 🌱 I’m currently learning Node
+- 🔭 I’m currently working on Salesforce CRM
+- 🌱 I am currently learning about best practices on the Salesforce platform.
 - 💬 Ask me about Tech related questions
 - 📫 How to reach me: Email
 - ⚡ Fun fact: Explore something new
