@@ -1,9 +1,8 @@
-### Hi there 👋 It's Shawon
+### Hi there 👋 It's Shakhawat
 
 - 🔭 I’m currently working on Salesforce CRM
 - 🌱 I am currently learning about best practices on the Salesforce platform.
 - 💬 Ask me about Tech related questions
-- 📫 How to reach me: Email
 - ⚡ Fun fact: Explore something new
 
 ### Connect with me:
@@ -17,5 +16,5 @@
 
 [twitter]: https://twitter.com/shshawon39
 [linkedin]: https://linkedin.com/in/shawon39
-[instagram]: https://instagram.com/shaw0n39
+[instagram]: https://instagram.com/____shawon
 [facebook]: https://facebook.com/sh.shawon1
