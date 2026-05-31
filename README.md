@@ -1,10 +1,5 @@
 ### Hi there 👋 It's Shakhawat
 
-- 🔭 I’m currently working on Salesforce CRM
-- 🌱 I am currently learning about best practices on the Salesforce platform.
-- 💬 Ask me about Tech related questions
-- ⚡ Fun fact: Explore something new
-
 ### Connect with me:
 
 [<img align="left" alt="shshawon39 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
